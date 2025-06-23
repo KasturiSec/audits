@@ -12,7 +12,7 @@ We provide comprehensive security audits to ensure the safety and reliability of
 Our team member is a battle proven smart contract security auditor with extensive experience in the field.
 
 Before founding KasturiSec, we mostly worked on Competitive Audits.
-Lists of our previous works can be found on here: [farismaulana](https://audits.sherlock.xyz/watson/farismaulana) | [0xdemon](https://audits.sherlock.xyz/watson/0xdemon) | [JuggerNaut63](https://cantina.xyz/u/JuggerNaut63   ).
+Lists of our previous individual public works can be found on here [KasturiSec](https://audits.sherlock.xyz/watson/KasturiSec).
 
 Now we are focusing on providing high quality security audits for smart contracts via KasturiSec.
 We aim to deliver thorough and detailed audits to help you identify and fix potential vulnerabilities in your smart contracts.

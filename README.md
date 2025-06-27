@@ -26,3 +26,9 @@ KasturiSec is our first step towards contributing to future web3 security via pr
 | Project           | Report                                                               | Labels                                                                                      |
 | ----------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | GTX               | Final Review (Pending)                                               | <img height="20" src="https://img.shields.io/badge/-Solidity-63698d?style=flat" />          |
+
+### Lending Borrowing
+
+| Project           | Report                                                               | Labels                                                                                      |
+| ----------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Centuari          | Final Review (Pending)                                               | <img height="20" src="https://img.shields.io/badge/-Solidity-63698d?style=flat" />          |

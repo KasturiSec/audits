@@ -31,4 +31,4 @@ KasturiSec is our first step towards contributing to future web3 security via pr
 
 | Project           | Report                                                               | Labels                                                                                      |
 | ----------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Centuari          | Final Review (Pending)                                               | <img height="20" src="https://img.shields.io/badge/-Solidity-63698d?style=flat" />          |
+| Centuari          | [2025-07-08](team/pdf/2025-07-08-Centuari.pdf)                       | <img height="20" src="https://img.shields.io/badge/-Solidity-63698d?style=flat" />          |
